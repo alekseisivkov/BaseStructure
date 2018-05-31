@@ -3,19 +3,19 @@ ext {
     def versions = [
             espresso      : '3.0.1',
             appCompat     : '27.0.2',
-            constraint    : '1.0.2',
+            constraint    : '1.1.0',
             playServices  : '11.8.0',
             recycler      : 'v1.1.1',
 
-            rxJava        : '2.1.9',
-            rxAndroid     : "2.0.1",
+            rxJava        : '2.1.14',
+            rxAndroid     : "2.0.2",
 
-            dagger        : '2.14.1',
+            dagger        : '2.16',
 
             archComponents: '1.1.0',
             room          : '1.0.0',
 
-            retrofit      : '2.3.0',
+            retrofit      : '2.4.0',
             logging       : '3.8.0',
 
             mockito       : '2.12.0',
